@@ -1,0 +1,32 @@
+[33mcommit f601189502f25432d3f1856f7bde459313373fa7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: GM <gm.malik.cs@gmail.com>
+Date:   Sat Dec 6 22:57:18 2025 +0500
+
+    BuffterFly Pattern
+
+[33mcommit a472767d2383808a762906539ce3488168f72589[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: cbbfc89 6633f8e
+Author: GM <gm.malik.cs@gmail.com>
+Date:   Fri Dec 5 23:05:49 2025 +0500
+
+    Merged remote main into master, resolved conflicts
+
+[33mcommit cbbfc89ad27fe5868b0592f784a822682eebaf73[m
+Author: GM <gm.malik.cs@gmail.com>
+Date:   Fri Dec 5 22:55:26 2025 +0500
+
+    Patterns
+
+[33mcommit 6633f8eafe58f6b64a617645eca62e2fde5f0fda[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: GM-02 <gm.malik.cs@gmail.com>
+Date:   Fri Dec 5 22:53:24 2025 +0500
+
+    Enhance README with DSA topics and learning goals
+    
+    Expanded README to include detailed DSA topics and goals.
+
+[33mcommit 3f73efa6809740768e1cc29ed70924f98dbcfa5a[m
+Author: GM-02 <gm.malik.cs@gmail.com>
+Date:   Fri Dec 5 22:52:33 2025 +0500
+
+    Initial commit
